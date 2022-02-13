@@ -1,5 +1,3 @@
-# TSP-GRIP-Data-Science-TASK-5-
-
 # Exploratory Data Analysis - Sports
 
 # (Level - Advanced)
@@ -13,9 +11,5 @@ PROBLEM STATEMENT:
 contributing win or loss of a team.
 
 ● Suggest teams or players a company should endorse for its products.
-
-● You can choose any of the tool of your choice
-
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 
 ● Dataset is available here: https://bit.ly/34SRn3b
